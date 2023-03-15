@@ -7,54 +7,23 @@ CRATOR : ZULKIFLI MOKOAGOW
 #INSTALLAN VPS && TERMUX
 
 termux-setup-storage
+TEAM TERMUX
+
+CRATOR : ZULKIFLI MOKOAGOW
+
+#INTALAN DI TERMUX
+
+termux-setup-storage
 
 termux-change-repo
 
-apt update -y
+pkg install update -y
 
-apt upgrade -y
+pkginstall upgrade -y
 
-apt install python
+pkg install git -y
 
-apt install git -y
-
-pip3 install akad
-
-pip3 install unzip
-
-pip3 install rsa
-
-pip3 install thrift
-
-pip3 install requests
-
-pip3 install bs4
-
-pip3 install gtts
-
-pip3 install pyowm
-
-pip3 install pytz
-
-pip3 install googletrans
-
-pip3 install pafy
-
-pip3 install humanfriendly
-
-pip3 install goslate
-
-pip3 install wikipedia
-
-pip3 install html5lib
-
-pip3 install urllib
-
-pip3 install antolib
-
-pip3 install tweepy
-
-pip3 install youtube_dl
+pkg install python
 
 cd storage
 
@@ -64,9 +33,37 @@ git clone https://github.com/Zulkiflimok/zul16
 
 cd zul16
 
+pkg install unzip -y 
+
 unzip zul16.zip
 
 cd zul16
+
+python3 zul16.py
+
+pip install six
+
+pip install requests
+
+pip install rsa
+
+pip install bs4
+
+pip install humanfriendly
+
+pip install pytz
+
+pip install html5lib
+
+pip install wikipedia
+
+pip install youtube-dl
+
+pip install googletrans
+
+pip install Naked
+
+pip install zalgo_text
 
 python3 zul16.py
 
