@@ -60,11 +60,11 @@ python3 zul16.py
 
 https://s.id/1v805
 
-grup line: https://line.me/R/ti/g/0A-lU6wlc6
+grup line: https://line.me/R/ti/g/9nObMjvWEl
 
 id line: http://line.me/ti/p/~linux.1
 
-grup wea :
+grup wea : 
 
 https://chat.whatsapp.com/LrynTVHbjN2BRzFRcMKrMu
 
